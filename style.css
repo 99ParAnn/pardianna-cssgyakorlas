@@ -1,0 +1,294 @@
+body {
+    box-sizing: border-box;
+}
+.igazit-balra {
+    text-align: left;
+}
+
+.igazit-jobbra {
+    text-align: right;
+}
+
+.igazit-kozepre {
+    text-align: center;
+}
+
+.igazit-sorkizart {
+    text-align: justify;
+}
+
+.szoveg-felkover {
+    font-weight: bold;
+}
+
+.szoveg-dolt {
+    font-style: italic;
+}
+
+.szoveg-alahuzott {
+    text-decoration: solid 1px;
+}
+
+.szoveg-athuzott {
+    text-decoration: line-through 2px wavy;
+}
+
+.betuszin-piros {
+    color: red;
+}
+
+.betuszin-zold {
+    color: green;
+}
+
+.betuszin-kek {
+    color: blue;
+}
+
+.betuszin-sarga {
+    color: yellow;
+}
+
+.betuszin-narancs {
+    color: orange;
+}
+
+.betuszin-lila {
+    color: purple;
+}
+
+.betuszin-fekete {
+    color: black;
+}
+
+.betuszin-feher {
+    color: white;
+}
+
+.hatterszin-piros {
+    background-color: red;
+}
+
+.hatterszin-zold {
+    background-color: green;
+}
+
+.hatterszin-kek {
+    background-color: blue;
+}
+
+.hatterszin-sarga {
+    background-color: yellow;
+}
+
+.hatterszin-narancs {
+    background-color: orange;
+}
+
+.hatterszin-lila {
+    background-color: purple;
+}
+
+.hatterszin-fekete {
+    background-color: black;
+}
+
+.hatterszin-feher {
+    background-color: white;
+}
+
+.szegely-piros {
+    border-style: solid;
+    border-color: red;
+}
+
+.szegely-zold {
+    border-style: solid;
+    border-color: green;
+}
+
+.szegely-kek {
+    border-style: solid;
+    border-color: blue;
+}
+
+.szegely-sarga {
+    border-style: solid;
+    border-color: yellow;
+}
+
+.szegely-narancs {
+    border-style: solid;
+    border-color: orange;
+}
+
+.szegely-lila {
+    border-style: solid;
+    border-color: purple;
+}
+
+.szegely-fekete {
+    border-style: solid;
+    border-color: black;
+}
+
+.szegely-feher {
+    border-style: solid;
+    border-color: white
+}
+
+.listajelolo-nincs {
+    list-style: none;
+}
+
+.listajelolo-kor {
+    list-style: circle;
+}
+
+.listajelolo-negyzet {
+    list-style: square;
+}
+
+.listajelolo-lemez {
+    list-style: disk;
+}
+
+.listajelolo-szam {
+    list-style-type: alpha;
+}
+
+.listajelolo-kisbetu {
+    list-style-type: lower-alpha;
+}
+
+.listajelolo-nagybetu {
+    list-style-type: upper-alpha;
+}
+
+.listajelolo-kisromai {
+    list-style-type: lower-roman;
+}
+
+.listajelolo-nagyromai {
+    list-style-type: upper-roman;
+}
+
+.margin0 {
+    margin: 0px;
+}
+
+.margin1 {
+    margin: 4px;
+}
+
+.margin2 {
+    margin: 8px;
+}
+
+.margin3 {
+    margin: 12px;
+}
+
+.margin4 {
+    margin: 16px;
+}
+
+.margin-top {
+    margin-top: 10px;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+.margin-left {
+    margin-left: 10px;
+}
+
+.margin-right {
+    margin-right: 10px;
+}
+
+.padding0 {
+    padding: 0px;
+}
+
+.padding1 {
+    padding: 4px;
+}
+
+.padding2 {
+    padding: 8px;
+}
+
+.padding3 {
+    padding: 12px;
+}
+
+.padding4 {
+    padding: 16px;
+}
+
+.padding-top {
+    padding-top: 10px;
+}
+
+.padding-bottom {
+    padding-bottom: 10px;
+}
+
+.padding-left {
+    padding-left: 10px;
+}
+
+.padding-right {
+    padding-right: 10px;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.szelesseg-25 {
+    width: 25%;
+}
+
+.szelesseg-50 {
+    width: 50%;
+}
+
+.szelesseg-75 {
+    width: 75%;
+}
+
+.szelesseg-100 {
+    width: 100%;
+}
+
+.max-szelesseg-25 {
+    max-width: 25%;
+}
+
+.max-szelesseg-50 {
+    max-width: 50%;
+}
+
+.max-szelesseg-75 {
+    max-width: 75%;
+}
+
+.max-szelesseg-100 {
+    max-width: 100%;
+}
+
+.tablazat {
+    border-collapse: collapse;
+}
